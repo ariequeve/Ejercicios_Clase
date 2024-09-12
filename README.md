@@ -1,4 +1,5 @@
-Notebooks de Clase - Ciencia de Datos para Ingeniería en Informática
+### Notebooks de Clase - Ciencia de Datos para Ingeniería en Informática de UADE
+
 Este repositorio contiene los notebooks utilizados en la asignatura Ciencia de Datos de la carrera de Ingeniería en Informática. Los notebooks cubren una variedad de temas relacionados con el análisis de datos, minería de datos, machine learning, y el uso de herramientas como Scikit-learn, pandas, numpy, y más.
 
 ### Contenidos:
@@ -21,3 +22,13 @@ Este repositorio contiene los notebooks utilizados en la asignatura Ciencia de D
   - matplotlib
   - seaborn
   - scikit-learn
+
+### Contribuciones
+Este repositorio está abierto para contribuciones. Si quieres sugerir mejoras o agregar más ejemplos, sigue estos pasos:
+
+### Realiza un fork del repositorio.
+Clona tu fork y realiza los cambios necesarios.
+Envía un pull request con una breve descripción de los cambios.
+
+### Contacto
+Si tienes alguna pregunta o sugerencia, no dudes en contactarme a través de mi correo: aquevedo@uade.edu.ar
